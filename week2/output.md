@@ -8,3 +8,5 @@
 <img width="1918" height="1015" alt="Screenshot 2026-07-05 223315" src="https://github.com/user-attachments/assets/a1634699-69a8-43e2-a37f-ea91b9915823" />
 # Verifying Interactions
 <img width="1918" height="1015" alt="Screenshot 2026-07-05 224722" src="https://github.com/user-attachments/assets/2a6e9cdc-f1e7-49ca-bf64-e102b24a4d77" />
+# SLF4J logging framework/Exercise-1
+<img width="1918" height="987" alt="Screenshot 2026-07-09 233805" src="https://github.com/user-attachments/assets/59ee183c-3806-4554-bd5b-ca6caa4a2cb4" />
